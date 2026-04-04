@@ -18,9 +18,9 @@
 
 *Thanks: **Huo-Tian**和**Huotian2016**（我的小号）*
 
-每周（有可能延迟）更新，作者为Chinese。
+每周（有可能延迟）更新，作者在中国~。
 
-简介的英文是*Huo-Tian*编写的
+简介的英文是**Huo-Tian**编写的
 
 *每周本项目更改的时候，本文件也会进行更改…… GL & HF*
 
@@ -28,6 +28,7 @@
 
 *我们正式宣布——bs-daimayuan-problems项目，正式进入Github并发布0.5.5预览版！*
 
-								*——来自HuoTian在BDP-XMP2026上发布的言论*
+								*——来自HuoTian在BDPT2026上发布的言论*
 								
 Wrote in Xi'an, Shaanxi, China.
+***Huo-Tian & HuoTian2016***
