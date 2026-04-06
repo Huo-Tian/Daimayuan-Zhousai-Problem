@@ -3,7 +3,7 @@
 ## 一、简介
 	1.本文件夹为bs.daimayuan.top 比赛题(有些题目前还没有代码，SW)代码。
 	2.现在更新到DMY Round 55.
-	3.2026.4.3-> 目前为145文件(不算本文件，纯C++)。
+	3.2026.4.6-> 目前为146文件(不算本文件，纯C++)。
 
 ## 二、代码特点
 	1.包含string, vector.
@@ -26,7 +26,7 @@
 
            *——来自HuoTian在项目启动时发布的言论*
 
-*我们正式宣布——bs-daimayuan-problems项目，正式进入Github并发布0.5.5预览版！*
+*我们正式宣布——bs-daimayuan-problems项目，正式进入Github并发布0.5.6版！*
 
 								*——来自HuoTian在BDPT2026上发布的言论*
 								
