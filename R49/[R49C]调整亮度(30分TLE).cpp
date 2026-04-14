@@ -1,34 +1,28 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+int n, q;
+int h[100010], a[100010];
+int l, r;
+long long s[100010], s2[100010];
 
-int n, a[200010];
-int q, b[200010];
-
-int main () {
-    cin >> n;
-    cin >> q;
+int main() {
+    cin >> n >> q;
     for(int i = 1; i <= n; i ++) {
-        cin >> a[i];
-        b[i] = 0;
+        cin >> h[i];
+        s2[i] = a[i] - a[i - 1];
     }
-    for(; q--; ) 
-    {
-        int l, r;
+    for(int i = 1; i <= q; i ++) {
         cin >> l >> r;
-        for(int i = l; i <= r; i ++) {
-            if(b[i] == a[i] - 1) {
-                b[i] = 0;
-            } else {
-                b[i] ++;
-            }
-        }
-        // for(int i = 1; i <= n; i ++) {
-        //     cout << b[i] << " ";
-        // }
-        // cout << endl;
+        s2[l] += 1;
+        s2[r + 1] -= 1;
     }
     for(int i = 1; i <= n; i ++) {
-        cout << b[i] << " ";
+        s[i] = s[i - 1] + s2[i];
+        //cout << s[i] << " ";
+    }
+    //cout << endl;
+    for(int i = 1; i <= n; i ++) {
+        cout << s[i] % h[i] << " ";
     }
 }
