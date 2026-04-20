@@ -54,7 +54,7 @@ R56更新
 ### v1.3.0 
 重制更新第三季·第一部分+R57（大版本更新） 
 代号：MakeUpSeason3Part1 & R57Codes Update(MUS3P1&R57Codes)
-### v1.3.1(即将推出)
+### v1.3.1
 重制更新第二季·第二部分
 代号：MakeUpSeason2Part2 Continued Update(MUS2P2C)
 ### v1.3.2(即将推出)
