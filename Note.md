@@ -1,4 +1,4 @@
-# 本项目介绍 (2026-04-17)
+ # 本项目介绍 (2026-04-17)
 
 ## 一、简介
 	1.本文件夹为bs.daimayuan.top 比赛题(有些题目前还没有代码)代码。
@@ -30,7 +30,7 @@ Tips:请注意，因为有长城（Greatwall），所以Github可能会访问失
 初出茅庐
 代号：Just Get In(JustGI)
 ### v0.5.6-snapshot-260409a 
-笔记+代码(R55)更新
+基础更新
 代号：Basic Things Update(BasicT)
 ### v1.0.0 
 正式更新(大版本)
@@ -46,21 +46,26 @@ R56更新
 代号：R56Codes Update(R56Codes)
 ### v1.2.0(已废弃Not Avillable) 
 重制更新第一季 
-因问题过多导致release撤销~
-代号：MakeUpNo.1 Update (MUNo.1)
+因问题过多导致release被撤销~
+代号：MakeUpSeason1 Update (MUS1)
 ### v1.2.5 
-重制更新第二季 
-代号：MakeUpNo.2 Update (MUNo.2)
+重制更新第二季·第一部分
+代号：MakeUpSeason2Part1 Update (MUS2P1)
 ### v1.3.0 
-重制更新第三季+R57（大版本更新） 
-代号：MakeUpNo.3 & R57Codes Update(MUNo.3&R57Codes)
+重制更新第三季·第一部分+R57（大版本更新） 
+代号：MakeUpSeason3Part1 & R57Codes Update(MUS3P1&R57Codes)
 ### v1.3.1(即将推出)
-重制更新第二季(续)
-代号：MakeUpNo.2 Continued Update(MUNo.2C)
+重制更新第二季·第二部分
+代号：MakeUpSeason2Part2 Continued Update(MUS2P2C)
 ### v1.3.2(即将推出)
-重制更新第三季(续)
-代号：MakeUpNo.3 Continued Update(MUNo.3C)
-
+重制更新第三季·第二部分
+代号：MakeUpSeason3Part2 Continued Update(MUS3CP2C)
+### v1.3.3(即将推出)
+题解更新第一季·第一部分
+代号:ThinkerUpSeason1Part1 Update(TUS1P1)
+### v1.3.4(即将推出)(可能会成为第一个劳动节版本~)
+重制更新第四季·第一部分
+代号：MakeUpSeason4Part1 Update(MUS4P1)
 ## 各个Round代码加入/修改版本
 
 R1 ~ R55 v0.5.6 snapshot 260409a
