@@ -5,9 +5,8 @@ int t, N, M, n, m;
 int a[40][40], b[40][40];
 
 bool check(int x, int y) {
-    int X = 1, Y = 1;
-    for(int i = x, X = 1; i <= x + n - 1; i ++, X++) {
-        for(int j = y, Y = 1; j <= y + m - 1; j ++, Y++) {
+    for(int i = x, X = 1; X <= n; i ++, X++) {
+        for(int j = y, Y = 1; Y <= m; j ++, Y++) {
             if(a[i][j] != b[X][Y]) {
                 //cout << i << " " << j << " " << X << " " << Y << " " << a[i][j] << " " << b[X][Y] << endl;
                 return false;
@@ -41,6 +40,9 @@ int main() {
                     break;
                 }
                 //cout << endl;
+            }
+            if(flag == true) {
+                break;
             }
         }
         if(!flag) {
