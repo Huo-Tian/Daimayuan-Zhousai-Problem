@@ -57,10 +57,14 @@ R56更新
 ### v1.3.1
 重制更新第二季·第二部分
 代号：MakeUpSeason2Part2 Continued Update(MUS2P2C)
-### v1.3.2
+### v1.3.2-Snapshot-1
 双赛临头的快乐更新+R58（大版本更新） 
-注：(来自中X赛 和 XX市第26届数字实践活动的压力)迫使作者赶紧更新
+注：(来自中X赛 和 XX市第26届数字实践活动的压力)迫使作者赶紧更新，但最后还是延迟了。
 代号：The Happy From 2 Contest Come Soon & R58Codes Update(THF2CCS&R58Codes)
+### v1.3.2-New
+双赛已过的快乐更新 + 重制更新第三季·第二部分（大版本&修复更新）
+将R21C补为了100AC，感谢QQ:@一只蒟蒻OIer 在一定程度上给出的思路。（最后还是作者发现了问题）
+代号：The Happy From 2 Contest leaved 2 & MakeUpSeason3Part2 Update(THF2CCS&MUS3P2)
 ### v1.3.3(即将推出)
 题解更新第一季·第一部分
 代号:ThinkerUpSeason1Part1 Update(TUS1P1)
@@ -78,7 +82,7 @@ R53C(60) & R3C v1.1.0
 R16C & R51G(0) v1.1.0 snapshot 26w01a
 R21C R17C R49C & R2C v1.2.5 重制更新第二季
 R57 v1.3.0 重制更新第三季
-R58 v1.3.2 双赛临头的快乐更新(原重制更新第三季·第二部分) 
+R58 v1.3.2 双赛临头的快乐更新(重制更新第三季·第二部分) 
 
 ## 格式！(X表示数字)
 
