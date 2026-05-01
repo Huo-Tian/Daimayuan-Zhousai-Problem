@@ -189,7 +189,7 @@ inline void quicksort(int l, int r) {
             }
         }
     }
-    int p = ;
+    int p = l;
     fpr(int i = 1; i <= l1; i ++) {
         a[p++] = b[i];
     }
