@@ -3,7 +3,7 @@ using namespace std;
 
 int n;
 struct Contester {
-	int p, t;
+	int p, t, deadtime;
 	bool isdead = false;
 }a[100100];
 
@@ -26,6 +26,19 @@ int main() {
 	for (int i = 1; i <= n; i++) {
 		if (a[a[i].p].t < a[i].t && a[i].isdead = false) {
 			a[i].isdead = true;
+			deadtime = a[a[i].p].t;
+		}
+		else {
+			a[a[i].p].isdead = true;
+			deadtime = a[i].t;
+		}
+	}
+	for (int i = 1; i <= n; i++) {
+		if (a[i].isdead == true) {
+			cout << a[i].deadtime << "\n";
+		}
+		else {
+			cout << -1 << endl;
 		}
 	}
 }
