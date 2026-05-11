@@ -8,9 +8,9 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -29,19 +29,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b038c7-0685-4941-9df1-350fc89f65e9" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/R27/[R27C]服务窗口.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R32/[R32C]奇偶更新(0分RE).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R39/[R39B]倍数(0分TLE).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R44/[R44C]贺卡(0分TLE).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R5/[R5E]余数和(40分TLE).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R25/[R25B]Ferrers 图.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R59/[R59C]淘汰赛.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R60/[R60C]加(0分TLE).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R60/[R60D]药品(0分WA).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maths.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R19/[R19B]乘法(20分WA).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R19/[R19B]乘法.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R22/[R22C]奇偶偶奇(50分TLE).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R22/[R22C]奇偶偶奇(80分WA).cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R33/[R33B]中位数.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R33/[R33B]中位数None.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R4/[R4E]区间异或和.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R4/[R4E]区间异或和(20分TLE).cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R45/[R45C]会议和沙威玛(0分WA).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R45/[R45C]会议和沙威玛(0分WA).cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R9/[R9D]战队选人(10分WA).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R9/[R9D]战队选人(10分RE).cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/R33/[R33B]中位数None.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R33/[R33B]中位数.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/R5/[R5E]余数和(40分TLE).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R5/[R5E]余数和(40分TLE).cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/R59/[R59C]淘汰赛(0分WA).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/R60/[R60D]药品None.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[R5E]余数和(40分TLE).cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,48 +64,49 @@
     <option name="minorVersion" value="1.1" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3DTs7cOWQMil1p0JGm3r1i28dT7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/Github Repositories/Daimayuan-Zhousai-Problem/main.cpp",
-    "org.rust.first.attach.projects": "true",
-    "settings.editor.selected.configurable": "CPPToolchains",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Github Repositories/Daimayuan-Zhousai-Problem/main.cpp&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github Repositories\Daimayuan-Zhousai-Problem" />
       <recent name="E:\Github Repositories\Daimayuan-Zhousai-Problem\R32" />
     </key>
   </component>
@@ -128,7 +129,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778317227862</updated>
-      <workItem from="1778317229941" duration="6190000" />
+      <workItem from="1778317229941" duration="8399000" />
+      <workItem from="1778385102576" duration="7790000" />
+      <workItem from="1778513359670" duration="3144000" />
     </task>
     <servers />
   </component>

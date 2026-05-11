@@ -1,13 +1,13 @@
-#include <bits/stdc++.h>
+﻿#include <bits/stdc++.h>
 using namespace std;
 
 int n;
-long long ans = 0;
+int ans = 0;
 
 int main() {
-    cin >> n;
-    for (int i = 1; i <= n; i++) {
-        ans += n % i;
-    }
-    cout << ans << endl;
+	cin >> n;
+	for (int i = 1; i <= n; i++) {
+		ans += n % i;
+	}
+	cout << ans << endl;
 }
