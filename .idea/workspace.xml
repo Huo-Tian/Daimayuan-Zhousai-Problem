@@ -29,19 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b038c7-0685-4941-9df1-350fc89f65e9" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/R25/[R25B]Ferrers 图.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R59/[R59C]淘汰赛.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R60/[R60C]加(0分TLE).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R60/[R60D]药品(0分WA).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maths.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R33/[R33B]中位数None.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R33/[R33B]中位数.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R5/[R5E]余数和(40分TLE).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R5/[R5E]余数和(40分TLE).cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/R59/[R59C]淘汰赛(0分WA).cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/R60/[R60D]药品None.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[R5E]余数和(40分TLE).cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,12 +99,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Daimayuan_Zhousai_Problem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Daimayuan_Zhousai_Problem" TARGET_NAME="Daimayuan_Zhousai_Problem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Daimayuan_Zhousai_Problem" RUN_TARGET_NAME="Daimayuan_Zhousai_Problem">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Daimayuan_Zhousai_Problem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Daimayuan_Zhousai_Problem" TARGET_NAME="Daimayuan_Zhousai_Problem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Daimayuan_Zhousai_Problem" RUN_TARGET_NAME="Daimayuan_Zhousai_Problem">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -132,11 +120,18 @@
       <workItem from="1778317229941" duration="8399000" />
       <workItem from="1778385102576" duration="7790000" />
       <workItem from="1778513359670" duration="3144000" />
+      <workItem from="1778587211359" duration="1258000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
