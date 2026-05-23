@@ -10,7 +10,7 @@ int main() {
     }
     int ans = n;
     for(int l = 1; l <= n; l ++) {
-        for(int r = l + 1; r <= n; r ++) {
+        for(int r = l; r <= n; r ++) {
             int ma = INT_MIN, mi = INT_MAX;
             for(int i = l; i <= r; i ++) {
                 ma = max(ma, a[i]);

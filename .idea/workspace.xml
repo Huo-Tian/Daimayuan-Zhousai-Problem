@@ -29,7 +29,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b038c7-0685-4941-9df1-350fc89f65e9" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/R61/[R61A]四季.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R61/[R61B]墙.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/R2/[R2D]倍数问题(20分TLE).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/R2/[R2D]倍数问题(20分TLE).cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +92,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;E:/Github Repositories/Daimayuan-Zhousai-Problem/main.cpp&quot;,
     &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github Repositories\Daimayuan-Zhousai-Problem\R61" />
       <recent name="E:\Github Repositories\Daimayuan-Zhousai-Problem" />
       <recent name="E:\Github Repositories\Daimayuan-Zhousai-Problem\R32" />
     </key>
@@ -120,7 +125,9 @@
       <workItem from="1778317229941" duration="8399000" />
       <workItem from="1778385102576" duration="7790000" />
       <workItem from="1778513359670" duration="3144000" />
-      <workItem from="1778587211359" duration="1868000" />
+      <workItem from="1778587211359" duration="2481000" />
+      <workItem from="1778854757580" duration="2595000" />
+      <workItem from="1778897593988" duration="2477000" />
     </task>
     <servers />
   </component>
@@ -143,5 +150,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

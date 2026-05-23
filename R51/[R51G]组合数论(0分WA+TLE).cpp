@@ -17,19 +17,21 @@ long long lcm(long long a, long long b) {
 }
 
 long long jc(long long x) {
-    long long sum = 0;
+    long long sum = 1;
     for(long long i = 1; i <= x; i++) {
         sum *= i;
+        sum %= P;
     }
     return sum;
 }
 
 long long cbl(long long m, long long n) {
+    if(m > n || m < 0) return 0;
     long long jcn = jc(n), jcm = jc(m) * jc(n - m);
     return jcn / jcm;
 }
 
-int  main() {
+int main() {
     cin >> n;
     for(long long i = 1; i <= n; i ++) {
         for(long long j = 1; j <= i; j ++) {

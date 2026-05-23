@@ -15,4 +15,6 @@ add_executable(Daimayuan_Zhousai_Problem main.cpp
         "R44/[R44C]贺卡(0分TLE).cpp"
         "R45/[R45C]会议和沙威玛(0分WA).cpp"
         "R60/[R60C]加(0分TLE).cpp"
-        "R25/[R25B]Ferrers 图.cpp")
+        "R25/[R25B]Ferrers 图.cpp"
+        R61/[R61A]四季.cpp
+        R61/[R61B]墙.cpp)
