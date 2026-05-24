@@ -1,41 +1,45 @@
 #include <bits/stdc++.h>
 using namespace std;
+using ll = long long;
 
-const long long P = 998244353;
-long long n;
-long long ans = 0;
+const ll P = 998244353;
+ll n;
+ll ans = 0LL;
 
-long long gcd(long long a, long long b) {
+ll gcd(ll a, ll b) {
     if (b)
         return gcd(b, a % b);
     else
         return a;
 }
 
-long long lcm(long long a, long long b) {
+ll lcm(ll a, ll b) {
     return (a * b) / gcd(a, b);
 }
 
-long long jc(long long x) {
-    long long sum = 1;
-    for(long long i = 1; i <= x; i++) {
+ll jc(ll x) {
+    ll sum = 1;
+    for(ll i = 1; i <= x; i++) {
         sum *= i;
         sum %= P;
     }
     return sum;
 }
 
-long long cbl(long long m, long long n) {
-    if(m > n || m < 0) return 0;
-    long long jcn = jc(n), jcm = jc(m) * jc(n - m);
-    return jcn / jcm;
+ll zh(ll x, ll y) {
+    ll nj, mj;
+    nj = jc(x), mj = jc(y) * jc((x - y));
+    if(nj >= 1 && mj >= 1) {
+        return (nj / mj) * 1LL;
+    }
+    return 0LL;
 }
 
 int main() {
     cin >> n;
-    for(long long i = 1; i <= n; i ++) {
-        for(long long j = 1; j <= i; j ++) {
-            ans += lcm(i, j) * cbl(i, j);
+    for(ll i = 1; i <= n; i ++) {
+        for(ll j = 1; j <= i; j ++) {
+            ans += lcm(i, j) * zh(i, j);
             ans %= P;
         }
     }
