@@ -1,7 +1,9 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int x, a, b, c;
+
+int x, a, b, c;
+
+int main() {
     scanf("%d", &x);
     a = x / 100 % 10;
     b = x / 10 % 10;

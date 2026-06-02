@@ -7,7 +7,7 @@ ll a[1000010], b[500010];
 ll ma = 0;
 ll ans[1000100];
 
-int main(){
+int main() {
     scanf("%lld", &n);
     for(int i = 1; i <= n; i ++){
         scanf("%lld", &a[i]);

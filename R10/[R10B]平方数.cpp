@@ -1,7 +1,9 @@
-#include  <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
+long long n;
+
 int main() {
-    long long n;
     scanf("%lld", &n);
     long long A = sqrt(n);
     while (A * A > n) {

@@ -22,7 +22,7 @@ int C(int m, int n) {
     return (n - m != 0 ? jc(n) / (jc(m) * jc(n - m)) : jc(n) / (jc(m)));
 }
 
-int main(){
+int main() {
     scanf("%d%d%d%d%d", &a, &b, &c, &n, &m);
     for(int i = 0; i <= n; i ++) {
         for(int j = 0; j <= b - i; j ++) {

@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int n, b[100001], cnt;
+int n, b[100010], cnt;
 
 struct Info {
     int a, t, p;

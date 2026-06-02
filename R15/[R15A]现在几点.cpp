@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int h, m, t;
+
 int main() {
     scanf("%d%d%d", &h, &m, &t);
     m += t;

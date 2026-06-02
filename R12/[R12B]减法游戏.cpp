@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int a, b, scorea, scoreb;
+
 int main() {
     scanf("%d %d", &a, &b);
     while (a != b) {

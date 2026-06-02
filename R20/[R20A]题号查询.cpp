@@ -3,7 +3,6 @@ using namespace std;
 
 int x, r, p;
 
-
 int main() {
     scanf("%d", &x);
     if(x >= 115) {

@@ -1,12 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int n, m;
 const int N = 3000;
 int a[N + 10], b[N + 10];
 bool flaga[N + 10], flagb[N + 10];
+
 int main() {
     scanf("%d%d", &n, &m);
-    for (int i = 1; i <= n; ++i) {
+    for (int i = 1; i <= n; i ++) {
         scanf("%d", &a[i]);
     }
     for (int i = 1; i <= m; i++) {
@@ -14,7 +16,7 @@ int main() {
     }
     sort(a + 1, a + n + 1);
     for (int i = 1; i <= n; i ++) {
-        for (int j = 1; j <= m; ++j) {
+        for (int j = 1; j <= m; j ++) {
             if (a[i] < b[j]) {
                 continue;
             } else if (flaga[i] == false && flagb[j] == false){
@@ -25,7 +27,7 @@ int main() {
         }
     }
     int x = 0;
-    for (int i = 1; i <= m; ++i) {
+    for (int i = 1; i <= m; i ++) {
         if (flagb[i] == true) {
             x++;
         }

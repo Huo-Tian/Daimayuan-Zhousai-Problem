@@ -1,8 +1,10 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int n;
-    char s[1000001];
+
+int n;
+char s[1000001];
+
+int main() {
     scanf("%d", &n);
     scanf("%s", s + 1);
     bool flag = false;

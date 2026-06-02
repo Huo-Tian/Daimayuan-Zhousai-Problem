@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int a[1000010], vis[1000010];
+
 int main() {
     int n, m;
     scanf("%d%d", &n, &m);

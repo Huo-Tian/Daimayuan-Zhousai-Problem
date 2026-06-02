@@ -1,8 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 long long n, a[100001];
 long long ans;
-int main(){
+
+int main() {
     scanf("%lld", &n);
     for(long long i = 1; i <= n; i ++){
         scanf("%lld", &a[i]);

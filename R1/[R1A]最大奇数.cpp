@@ -1,7 +1,9 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-	int n, a[10000001], maji = -99999;
+
+int n, a[10000001], maji = -99999;
+
+int main() {
 	scanf("%d", &n);
 	for(int i = 1; i <= n; i ++){
 		scanf("%d", &a[i]);

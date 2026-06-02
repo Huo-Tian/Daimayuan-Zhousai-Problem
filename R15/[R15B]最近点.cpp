@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int n, x[3000], y[3000];
 
 int Dist(int i, int j) {

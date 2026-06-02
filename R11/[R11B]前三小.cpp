@@ -1,9 +1,11 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 struct number {
     int val;
     int cnt;
 }a[1000010];
+
 int n;
 bool cmp1(number a, number b) {
     return a.val < b.val;

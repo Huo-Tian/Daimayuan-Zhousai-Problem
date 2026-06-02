@@ -1,12 +1,14 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    long long n,x;
+
+long long n, x;
+long long a[1000001], ans = 0;
+
+int main() {
     scanf("%lld%lld", &n, &x);
-    long long a[1000001], ans = 0;
-    for(int i = 1; i <= n; i ++){
+    for (int i = 1; i <= n; i++) {
         scanf("%lld", &a[i]);
-        if(a[i] == x){
+        if (a[i] == x) {
             ans ++;
         }
     }

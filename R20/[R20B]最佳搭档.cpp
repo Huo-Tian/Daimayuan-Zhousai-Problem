@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int n, a[10001], ans;
-bool b[10001];
+int n, a[100010], ans;
+bool b[100010];
 
 int main() {
     scanf("%d", &n);

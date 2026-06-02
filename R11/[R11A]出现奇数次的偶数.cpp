@@ -1,6 +1,8 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 int n, a[10001];
+
 int main() {
     scanf("%d", &n);
     for(int i = 1; i <= n; i++) {

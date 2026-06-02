@@ -1,17 +1,13 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int n,a[1001];
-    scanf("%d",&n);
-    for(int i=1;i<=n;i++){
-        scanf("%d",&a[i]);
+
+int n, a[1001];
+
+int main() {
+    scanf("%d", &n);
+    for (int i = 1; i <= n; i++) {
+        scanf("%d", &a[i]);
     }
-    for(int i=1;i<=n;i++){
-        for(int j=1;j<=n-i;j++){
-            if(a[j]<a[j+1]){
-                swap(a[j],a[j+1]);
-            }
-        }
-    }
-    printf("%d",a[1]+a[2]+a[3]);
+    sort(a + 1, a + n + 1);
+    printf("%d", a[1] + a[2] + a[3]);
 }

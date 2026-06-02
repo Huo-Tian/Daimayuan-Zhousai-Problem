@@ -1,6 +1,8 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 int n, m, a[1010];
+
 void moreone(int x) {
     int cnt = 0;
     while (x >= 10) {

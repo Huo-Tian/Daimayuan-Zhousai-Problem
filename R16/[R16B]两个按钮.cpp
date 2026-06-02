@@ -5,7 +5,6 @@ long long f[100010];
 int T, a, b, n, k, x = 1;
 bool flag = false;
 
-
 int main() {
     cin >> T;
     for(; T--; ) {

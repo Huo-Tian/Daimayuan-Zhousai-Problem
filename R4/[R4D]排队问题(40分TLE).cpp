@@ -1,6 +1,8 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 long long n, a[1000010], b[1000100], m;
+
 int main() {
     scanf("%lld", &n);
     for (int i = 1; i <= n; i++) {

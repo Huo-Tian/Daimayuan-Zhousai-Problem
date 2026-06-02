@@ -2,7 +2,6 @@
 using namespace std;
 
 int n;
-
 long long a[100010];
 
 int main() {

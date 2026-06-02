@@ -3,8 +3,8 @@ using namespace std;
 
 int n;
 char s[1000010];
-
 int b[26], stk[30], top;
+
 int main() {
     scanf("%d", &n);
     scanf("%s", s + 1);

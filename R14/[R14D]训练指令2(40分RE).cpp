@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int n, m, q;
 int a[2010][2010], cnt = 0;
+
 int main() {
     scanf("%d %d %d", &n, &m, &q);
     for (int i = 1; i <= n; i ++) {

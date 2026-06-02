@@ -1,10 +1,12 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
+int n;
+int maxOdd = 0, maxEven = 0;
+int minOdd = 1E9 + 1, minEven = 1E9 + 1;
+
 int main() {
-	int n;
 	scanf("%d", &n);
-	int maxOdd = 0, maxEven = 0;
-	int minOdd = 1E9 + 1, minEven = 1E9 + 1;
 	for(int i = 1; i <= n; i ++){
 		int a;
 		scanf("%d", &a);

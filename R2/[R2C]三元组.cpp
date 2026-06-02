@@ -5,7 +5,7 @@ int n, a[1000001], cnt = 0;
 long long ans;
 map<int, long long> s;
 
-int main(){
+int main() {
 	scanf("%d", &n);
 	for(int i = 1; i <= n; i ++){
 		scanf("%d", &a[i]);

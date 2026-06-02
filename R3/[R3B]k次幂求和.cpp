@@ -1,8 +1,10 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 const int P = 998244353;
 int n, k, a[101];
 long long ans;
+
 int main() {
     scanf("%d %d", &n, &k);
     for (int i = 1; i <= n; i++)
