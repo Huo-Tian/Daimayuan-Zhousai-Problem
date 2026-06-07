@@ -11,7 +11,7 @@
 	2.代码中常用数据类型：long long, int, bool, double, char
 	3.一些代码包含void/int/inline void/bool/long long 函数(注意⚠️, short/float/long一般不用)
 ## 三、整理~
-	1.现在的维护由@HuoTian2016(我的小号)进行，现在的添加代码工作由@Huo-Tian(我本人)进行。
+	1.现在的维护由@HuoTian2016(我的小号)和@Huo-Tian2016(我的新小号)进行，现在的添加代码工作由@Huo-Tian(我本人)进行。
 	2.翻遍了之前的代码，R1A的题面及代码目前无法在题库中看到，仅可在DMY Round 1中看到。
     3.对于第二条消息，在2026-04-29之后可以在题库中看到R1A。(终于加上了)
 	4.由于R20及以前(尤其是R10及之前)的一大部分代码看得不美观,现在的美观版代码由@Huo-Tian(我本人)进行了美化。
@@ -24,7 +24,7 @@
 
 ## 注
 
-*Thanks: **Huo-Tian**和**Huotian2016**（我的小号）*
+*Thanks: **Huo-Tian**、**Huotian2016**（我的小号）、**Huo-tian2016**（我的新小号）*
 
 每周（有可能延迟）更新~
 
@@ -69,4 +69,4 @@ vX.X.X XXwXX-DevV 更新 代号
 vX.X.X Max_End_Version
 
 Wrote in Xi'an, Shaanxi, China.
-***Huo-Tian & HuoTian2016***
+***Huo-Tian & HuoTian2016 & Huo-Tian2016***
