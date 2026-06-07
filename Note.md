@@ -1,10 +1,10 @@
- # 本项目介绍 (2026-06-02)
+ # 本项目介绍 (2026-06-07)
 
 ## 一、简介
 	1.本项目为[DMY竞赛平台](bs.daimayuan.top) 比赛题代码(有些题目前还没有代码)。
 	全称Daimayuan-Zhousai-Problem，简称DZP
-	2.现在更新到DMY Round 63.
-	3.2026.6.2-> 目前为207文件(C++ + markdown,不含适配IDE的文件)。
+	2.现在更新到DMY Round 64.
+	3.2026.6.7-> 目前为213文件(C++ + markdown,不含适配IDE的文件)。
 
 ## 二、代码特点
 	1.包含string, vector及一些STL.
@@ -44,6 +44,7 @@ R60 v1.3.4
 R61-63 v1.3.4 Snapshot 1-4
 R39B v1.3.4 Snapshot 5
 R1 ~ R20 美观修理 v1.3.6
+R64 v1.3.6 Snapshot-1
 
 ## 格式！(X表示数字)
 
