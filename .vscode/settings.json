@@ -1,3 +1,13 @@
 {
-    "commentTranslate.hover.enabled": false
+    "C_Cpp.default.compilerPath": "D:/msys64/mingw64/bin/clang++.exe"
+        // 1. 开启圆角窗口（如果你用的是 Windows 11，这个效果绝佳）
+    "window.roundedCorners": true,
+
+    // 2. 调整侧边栏和编辑器的紧凑度，增加呼吸感
+    "workbench.tree.indent": 16, // 让文件树的缩进更明显，更像 Mac 的 Finder
+    "editor.lineHeight": 1.6,    // 增加代码行高，看着更优雅
+
+    // 3. 隐藏一些杂乱的 UI 元素，追求极简
+    "workbench.activityBar.location": "top", // 把左侧活动栏移到顶部（类似 Mac 的触控栏/工具栏）
+    "window.titleBarStyle": "custom",        // 使用自定义标题栏，配合主题更融合
 }
