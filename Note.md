@@ -1,10 +1,11 @@
- # 本项目介绍 (2026-06-07)
+ # 本项目介绍 (2026-06-11)
 
 ## 一、简介
 	1.本项目为[DMY竞赛平台](bs.daimayuan.top) 比赛题代码(有些题目前还没有代码)。
-	全称Daimayuan-Zhousai-Problem，简称DZP
-	2.现在更新到DMY Round 64.
-	3.2026.6.7-> 目前为213文件(C++ + markdown,不含适配IDE的文件)。
+    2.已经将所有DYP项目上有的代码全部搬运过来了
+	全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有周赛的，叫DZP)
+	2.现在更新到DMY Round 64及DMY Yuesai 202606.
+	3.2026.6.11-> 目前为213文件(C++ + markdown,不含适配IDE的文件)。
 
 ## 二、代码特点
 	1.包含string, vector及一些STL.
@@ -17,6 +18,7 @@
 	4.由于R20及以前(尤其是R10及之前)的一大部分代码看得不美观,现在的美观版代码由@Huo-Tian(我本人)进行了美化。
 	5.R20及以前的代码全部美化完成(v1.3.6).
 	6.当时补做R17C的时候过于匆忙，将R17C标题写为了“班服~”，已修改为了正确的标题.(v1.3.6)
+    7.将DYP项目上已经有的所有代码补充上来了，正式更名为DZYP！
 
 ## 协议
 
@@ -45,22 +47,21 @@ R61-63 v1.3.4 Snapshot 1-4
 R39B v1.3.4 Snapshot 5
 R1 ~ R20 美观修理 v1.3.6
 R64 v1.3.6 Snapshot-1
+Yuesai(DYP) v1.3.7 Version1
 
 ## 格式！(X表示数字)
 
 ### 正式版：
 
-vX.X.X 更新 代号
+vX.X.X VersionX
 
-### 快照版(1.3.4系列为补充版)：
+### 快照版(1.3.4系列及以后为补充版)：
 
 vX.X.X snapshot-X 更新 代号(从v1.1.0那个快照版本往后)
 
 ### 预览版：
 
-vX.X.X XXwXX-PreV 更新 代号
-
-vX.X.X XXwXX-DevV 更新 代号 
+vX.X.X XXwXX-PreV
 
 ### 最终版
 (像1.3.4系列这样有5个及以上快照版本的才有)
