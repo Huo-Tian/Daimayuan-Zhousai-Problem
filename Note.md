@@ -1,11 +1,11 @@
- # 本项目介绍 (2026-06-11)
+ # 本项目介绍 (2026-06-12)
 
 ## 一、简介
 	1.本项目为[DMY竞赛平台](bs.daimayuan.top) 比赛题代码(有些题目前还没有代码)。
     2.已经将所有DYP项目上有的代码全部搬运过来了
 	全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有周赛的，叫DZP)
-	2.现在更新到DMY Round 64及DMY Yuesai 202606.
-	3.2026.6.11-> 目前为213文件(C++ + markdown,不含适配IDE的文件)。
+	2.现在更新到DMY Round 65及DMY Yuesai 202606.
+	3.2026.6.12-> 目前为298文件(C++ + markdown,不含适配IDE的文件)。
 
 ## 二、代码特点
 	1.包含string, vector及一些STL.
@@ -48,6 +48,7 @@ R39B v1.3.4 Snapshot 5
 R1 ~ R20 美观修理 v1.3.6
 R64 v1.3.6 Snapshot-1
 Yuesai(DYP) v1.3.7 Version1
+R65 v1.3.7 Version2
 
 ## 格式！(X表示数字)
 
