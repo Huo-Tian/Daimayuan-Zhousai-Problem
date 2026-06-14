@@ -10,7 +10,7 @@ int main() {
         int x;
         cin >> x;
         while(x > 1) {
-            for(int j = 2; j <= x; j ++) {
+            for(int j = 2; j * j < x; j ++) {
                 if(x % j == 0) {
                     while(x % j == 0)   
                         a[j]++, x /= j;
