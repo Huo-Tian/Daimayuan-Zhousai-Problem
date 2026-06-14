@@ -2,7 +2,7 @@
 using namespace std;
 
 int n;
-long long a[100010];
+long long a[1000010];
 
 int main() {
     cin >> n;
