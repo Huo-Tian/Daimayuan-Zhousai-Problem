@@ -4,7 +4,7 @@ using namespace std;
 using ll = long long;
 
 int n, q;
-int a[100010];
+int a[200010];
 int opt, t, x, v;
 ll  val[200010], last[200010];
 

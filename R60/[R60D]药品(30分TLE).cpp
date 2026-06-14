@@ -7,8 +7,9 @@ bool check(int mid) {
     int st = 0, dt = 0;
     st = (mid / u) * v + min(mid % u, v);
     dt = mid - st;
-    int sen = u + v - st - st;
-    if (sen <= dt) {
+    int sena = (x - st), senb = (y - st);
+    //printf("吃两种药:%d 吃一种药:%d A剩余:%d B剩余:%d\n", st, dt, sena, senb);
+    if (sena <= dt && senb <= dt && sena + senb <= dt) {
         return true;
     }
     return false;
@@ -16,8 +17,9 @@ bool check(int mid) {
 
 int main() {
     cin >> x >> y >> u >> v;
-    int L = 0, R = u / v;
+    int L = 0, R = x + y + 1;
     while (L + 1 < R) {
+        //cout << L << " " << R << " ";
         int mid = (L + R) / 2;
         if (check(mid)) {
             R = mid;
@@ -25,5 +27,5 @@ int main() {
             L = mid;
         }
     }
-    cout << L << endl;
+    cout << R << endl;
 }
